@@ -608,7 +608,7 @@ strong {
   max-width: 80%;
   text-align="center";
   margin: 0 auto;
-  position: relative;
+  position: fixed;
   padding: 0 20px;
 }
 

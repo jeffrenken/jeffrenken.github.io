@@ -3,6 +3,37 @@
 <juiceboxgallery
 	galleryTitle=""
 >
+  <image imageURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/NEFootball2.jpg"
+	thumbURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/thumbs/NEFootball2.jpg"
+	linkURL="images/wide.jpeg"
+	linkTarget="_blank">
+  </image>
+    <image imageURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/NEFootball3.jpg"
+	thumbURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/thumbs/NEFootball3.jpg"
+	linkURL="images/wide.jpeg"
+	linkTarget="_blank">
+  </image>
+    <image imageURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/NEFootball4.jpg"
+	thumbURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/thumbs/NEFootball4.jpg"
+	linkURL="images/wide.jpeg"
+	linkTarget="_blank">
+  </image>
+    <image imageURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/NEFootball5.jpg"
+	thumbURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/thumbs/NEFootball5.jpg"
+	linkURL="images/wide.jpeg"
+	linkTarget="_blank">
+  </image>
+    <image imageURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/NEFootball6.jpg"
+	thumbURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/thumbs/NEFootball6.jpg"
+	linkURL="images/wide.jpeg"
+	linkTarget="_blank">
+  </image>
+    <image imageURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/NEFootball7.jpg"
+	thumbURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/thumbs/NEFootball7.jpg"
+	linkURL="images/wide.jpeg"
+	linkTarget="_blank">
+  </image>
+  
   <image imageURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/NEFootball1.jpg"
 	thumbURL="https://s3-us-west-1.amazonaws.com/jeffrenkenphotos/thumbs/NEFootball1.jpg"
 	linkURL="images/wide.jpeg"

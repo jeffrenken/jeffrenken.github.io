@@ -716,7 +716,7 @@ dt {
   margin: 6px auto;
 }
 #header nav li {
-  font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:  Helvetica, Arial, sans-serif;
   font-weight: normal;
   list-style: none;
   display: inline;

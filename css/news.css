@@ -11,12 +11,14 @@ body {
 }*/
 
 #graph {
+	position:fixed;
+	margin-top: 50px;
  	margin-left: 40px ;
 	}
 	
 h1 {
 	font-family:Helvetica;
-	margin-left:40px;
+	margin-left:20px;
 
 }
 

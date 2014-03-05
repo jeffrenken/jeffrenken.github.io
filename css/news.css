@@ -11,9 +11,10 @@ body {
 }*/
 
 #graph {
-	position:float;
-	margin-top: 20px;
- 	margin-left: 10px ;
+	position:center;
+	width:70%;
+	padding-top: 20px;
+ 	padding-left: 10px ;
 	}
 	
 h1 {

@@ -71,12 +71,12 @@ h4, .blog h2 {font-size:24px; padding-bottom:10px; padding-top:20px; letter-spac
 --------------------------------------------------------------------------------------------------------*/
 /*.container { white-space: nowrap; }*/
 #content .container { width:1280px; margin:0 auto; padding:10px 0; }
-.slider #content .container, .post #content .container { width:960px; }
+.slider #content .container, .post #content .container { width:80%; }
 header { background:#fff; -webkit-box-shadow:0 1px 0 rgba(0, 0, 0, 0.1); -moz-box-shadow:0 1px 0 rgba(0, 0, 0, 0.1); box-shadow:0 1px 0 rgba(0, 0, 0, 0.1); position:relative; z-index:55;}
 
 .col1-1 { width:80%; margin:10px; float:center; position:relative }
 .col1-1.combi { background:#fff; }
-.col3-3 { width:940px; margin:10px; float:left; position:relative }
+.col3-3 { width:80%; margin:10px; float:center; position:relative }
 .col1-3 { width:300px; margin:10px; float:left; overflow:hidden }
 .combi .col1-3 {width:300px; margin:0; float:left; }
 .col2-3 { width:620px; margin:10px; float:left; overflow:hidden }

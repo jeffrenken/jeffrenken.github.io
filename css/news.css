@@ -14,7 +14,9 @@ body {
 	position:float;
 	width:70%;
 	padding-top: 20px;
- 	padding-left: 10px ;
+	padding-bottom:20;
+ 	padding-left: 40px;
+ 	padding-right:40;
 	}
 	
 h1 {

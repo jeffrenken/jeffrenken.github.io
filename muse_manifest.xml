@@ -1,0 +1,90 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="jeffrenken.com" resolutions="1x" timestamp="1449605148080">
+  <folder name="css">
+    <file name="site_global.css" crc="464089399"/>
+    <file name="index.css" crc="297021231" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>people:phone>places:phone>sports"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
+    <file name="u5514.png" crc="229000022" ref="index"/>
+    <file name="u5514-r.png" crc="406405558" ref="index"/>
+    <file name="u5517.png" crc="404509295" ref="index"/>
+    <file name="u5517-r.png" crc="3973276399" ref="index"/>
+    <file name="dsc00695.jpg" crc="4233686105" seo="true" ref="index:phone>index"/>
+    <file name="github-u5837.png" crc="60943715" ref="index"/>
+    <file name="githubcolor-u5837-r.png" crc="327596875" ref="index"/>
+    <file name="me2.jpg" crc="3877774274" seo="true" ref="phone>index:index"/>
+    <file name="dsc00580643x429.jpg" crc="144992098" seo="true" ref="index"/>
+    <file name="website5.jpg" crc="242418304" seo="true" ref="phone>people:index"/>
+    <file name="website11.jpg" crc="135591751" seo="true" ref="phone>people:index"/>
+    <file name="website12.jpg" crc="3964482134" seo="true" ref="phone>people:index"/>
+    <file name="dsc00580117x78.jpg" crc="359322418" seo="true" ref="index"/>
+    <file name="website5106x78.jpg" crc="4076204583" seo="true" ref="index"/>
+    <file name="website11106x71.jpg" crc="3905892684" seo="true" ref="index"/>
+    <file name="website12106x71.jpg" crc="207332957" seo="true" ref="index"/>
+    <file name="website4.jpg" crc="4029946579" seo="true" ref="phone>places:index"/>
+    <file name="website6.jpg" crc="3896878797" seo="true" ref="phone>places:index"/>
+    <file name="website4106x71.jpg" crc="298063026" seo="true" ref="index"/>
+    <file name="website6106x71.jpg" crc="4200290126" seo="true" ref="index"/>
+    <file name="9701776447_0d88c5e237_o.jpg" crc="4127367957" seo="true" ref="index"/>
+    <file name="website7.jpg" crc="227128304" seo="true" ref="phone>sports:index"/>
+    <file name="website8.jpg" crc="4248827580" seo="true" ref="phone>sports:index"/>
+    <file name="website9.jpg" crc="419903562" seo="true" ref="phone>sports:index"/>
+    <file name="website10.jpg" crc="3884283933" seo="true" ref="phone>sports:index"/>
+    <file name="9701776447_0d88c5e237_o117x78.jpg" crc="360022098" seo="true" ref="index"/>
+    <file name="website1106x56.jpg" crc="274004856" seo="true" ref="index"/>
+    <file name="website7106x71.jpg" crc="4135574060" seo="true" ref="index"/>
+    <file name="website8106x73.jpg" crc="3941522687" seo="true" ref="index"/>
+    <file name="website9106x71.jpg" crc="3796740349" seo="true" ref="index"/>
+    <file name="website10106x77.jpg" crc="4116369440" seo="true" ref="index"/>
+    <file name="white.jpg" crc="4142314938" seo="true" ref="index"/>
+    <file name="gray.jpg" crc="4224140260" seo="true" ref="index"/>
+    <file name="website14.jpg" crc="188828127" seo="true" ref="phone>people:index"/>
+    <file name="website14106x71.jpg" crc="158231945" seo="true" ref="index"/>
+    <file name="website16.jpg" crc="4175884595" seo="true" ref="index:phone>places"/>
+    <file name="website3-crop-u7420.jpg" crc="404562827" ref="index"/>
+    <file name="website16106x42.jpg" crc="99781058" seo="true" ref="index"/>
+    <file name="website3104x78.jpg" crc="421550638" seo="true" ref="index"/>
+    <file name="website1.jpg" crc="65024659" seo="true" ref="index:phone>sports"/>
+    <file name="website13-crop-u7406.jpg" crc="156464465" ref="index"/>
+    <file name="website13106x71.jpg" crc="355807677" seo="true" ref="index"/>
+    <file name="instagram-logo-sketch.png" crc="4074301416" seo="true" ref="index:phone>index"/>
+    <file name="website14168x111.jpg" crc="503673431" seo="true" ref="phone>index"/>
+    <file name="github-u7884.png" crc="60943715" ref="phone>index"/>
+    <file name="githubcolor-u7884-r.png" crc="327596875" ref="phone>index"/>
+    <file name="u7893.png" crc="229000022" ref="phone>index"/>
+    <file name="u7893-r.png" crc="406405558" ref="phone>index"/>
+    <file name="u7895.png" crc="404509295" ref="phone>index"/>
+    <file name="u7895-r.png" crc="3973276399" ref="phone>index"/>
+    <file name="website3.jpg" crc="4094243079" seo="true" ref="phone>places"/>
+    <file name="website13.jpg" crc="272017423" seo="true" ref="phone>sports"/>
+    <file name="website2.jpg" crc="4063315795" seo="true" ref="phone>sports"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4033679359" ref="phone>index"/>
+      <file name="people.css" crc="28981402" ref="phone>people"/>
+      <file name="places.css" crc="29124209" ref="phone>places"/>
+      <file name="sports.css" crc="3909334270" ref="phone>sports"/>
+    </folder>
+    <file name="index.html" crc="529443637" seo="true" mt="1449171266418" redirect="true"/>
+    <file name="people.html" crc="414500401" seo="true" mt="1449170000987" redirect="true"/>
+    <file name="places.html" crc="4035582153" seo="true" mt="1449170069479" redirect="true"/>
+    <file name="sports.html" crc="3923986504" seo="true" mt="1449170112971" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4151595214" seo="true" mt="1449605066822" redirect="true"/>
+</manifest>

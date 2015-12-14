@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="jeffrenken.com" resolutions="1x" timestamp="1449605148080">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="jeffrenken.com" resolutions="1x" timestamp="1450134196170">
   <folder name="css">
     <file name="site_global.css" crc="464089399"/>
-    <file name="index.css" crc="297021231" ref="index"/>
+    <file name="index.css" crc="814218" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
@@ -15,7 +15,7 @@
     <file name="museredirect.js" crc="3899419633" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>people:phone>places:phone>sports"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>people:phone>places:phone>sports:index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="phone>index:index:phone>people:phone>places:phone>sports"/>
@@ -27,7 +27,7 @@
     <file name="dsc00695.jpg" crc="4233686105" seo="true" ref="index:phone>index"/>
     <file name="github-u5837.png" crc="60943715" ref="index"/>
     <file name="githubcolor-u5837-r.png" crc="327596875" ref="index"/>
-    <file name="me2.jpg" crc="3877774274" seo="true" ref="phone>index:index"/>
+    <file name="me2.jpg" crc="4146170452" seo="true" ref="phone>index"/>
     <file name="dsc00580643x429.jpg" crc="144992098" seo="true" ref="index"/>
     <file name="website5.jpg" crc="242418304" seo="true" ref="phone>people:index"/>
     <file name="website11.jpg" crc="135591751" seo="true" ref="phone>people:index"/>
@@ -73,6 +73,7 @@
     <file name="website3.jpg" crc="4094243079" seo="true" ref="phone>places"/>
     <file name="website13.jpg" crc="272017423" seo="true" ref="phone>sports"/>
     <file name="website2.jpg" crc="4063315795" seo="true" ref="phone>sports"/>
+    <file name="me22.jpg" crc="3877774274" seo="true" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -81,10 +82,10 @@
       <file name="places.css" crc="29124209" ref="phone>places"/>
       <file name="sports.css" crc="3909334270" ref="phone>sports"/>
     </folder>
-    <file name="index.html" crc="529443637" seo="true" mt="1449171266418" redirect="true"/>
+    <file name="index.html" crc="4128022958" seo="true" mt="1450133516886" redirect="true"/>
     <file name="people.html" crc="414500401" seo="true" mt="1449170000987" redirect="true"/>
     <file name="places.html" crc="4035582153" seo="true" mt="1449170069479" redirect="true"/>
     <file name="sports.html" crc="3923986504" seo="true" mt="1449170112971" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4151595214" seo="true" mt="1449605066822" redirect="true"/>
+  <file name="index.html" crc="417007992" seo="true" mt="1450134132871" redirect="true"/>
 </manifest>

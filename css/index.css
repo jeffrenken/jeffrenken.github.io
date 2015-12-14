@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000011;
-	background-color: #B42F2F;
+	color: #000000;
+	background-color: #0C6C8A;
 }
 
 .html
@@ -31,7 +31,7 @@
 
 #slideshowu75
 {
-	z-index: 245;
+	z-index: 258;
 	width: 0.01px;
 	height: 716px;
 	left: -100px;
@@ -48,12 +48,12 @@
 
 #u77popup
 {
-	z-index: 246;
+	z-index: 259;
 }
 
 #u5859
 {
-	z-index: 247;
+	z-index: 260;
 	width: 1160px;
 	height: 716px;
 	border-style: none;
@@ -171,17 +171,17 @@
 
 #u1189-4
 {
-	z-index: 249;
+	z-index: 262;
 	width: 1040px;
 	min-height: 34px;
 	background-color: transparent;
 	opacity: 0.64;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=64)";
 	filter: alpha(opacity=64);
-	color: #F4F4F4;
 	text-align: right;
 	letter-spacing: 8px;
 	line-height: 18px;
+	color: #F4F4F4;
 	font-size: 15px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
@@ -200,7 +200,7 @@
 
 #u1180
 {
-	z-index: 253;
+	z-index: 266;
 	height: 80px;
 	border-style: none;
 	border-color: transparent;
@@ -219,7 +219,7 @@
 
 #u1180-bw
 {
-	z-index: 253;
+	z-index: 266;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -228,7 +228,7 @@
 
 #u1186
 {
-	z-index: 254;
+	z-index: 267;
 	width: 713px;
 	border-style: none;
 	border-color: transparent;
@@ -240,7 +240,7 @@
 
 #u1183-4
 {
-	z-index: 271;
+	z-index: 284;
 	width: 120px;
 	min-height: 34px;
 	border-color: #000000;
@@ -288,7 +288,7 @@
 
 #u1185-4
 {
-	z-index: 275;
+	z-index: 288;
 	width: 117px;
 	min-height: 34px;
 	border-style: solid;
@@ -344,7 +344,7 @@
 
 #u1182-4
 {
-	z-index: 255;
+	z-index: 268;
 	width: 119px;
 	min-height: 34px;
 	border-style: solid;
@@ -380,7 +380,7 @@
 
 #u5410-4
 {
-	z-index: 259;
+	z-index: 272;
 	width: 119px;
 	min-height: 34px;
 	border-style: solid;
@@ -432,7 +432,7 @@
 
 #u5411-4
 {
-	z-index: 263;
+	z-index: 276;
 	width: 116px;
 	min-height: 34px;
 	border-style: solid;
@@ -487,7 +487,7 @@
 
 #u7090-4
 {
-	z-index: 267;
+	z-index: 280;
 	width: 120px;
 	min-height: 34px;
 	border-color: #000000;
@@ -2067,10 +2067,43 @@
 	background: url("../images/githubcolor-u5837-r.png") no-repeat 0px 0px;
 }
 
+#pu7918-4
+{
+	width: 0.01px;
+	margin-left: 314px;
+	margin-top: 51px;
+}
+
+#u7918-4
+{
+	z-index: 245;
+	width: 159px;
+	min-height: 27px;
+	background-color: transparent;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7919-9
+{
+	z-index: 249;
+	width: 172px;
+	min-height: 59px;
+	background-color: transparent;
+	text-align: left;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 159px;
+}
+
 #contact
 {
 	margin-left: 469px;
-	margin-top: 207px;
+	margin-top: 103px;
 	position: relative;
 }
 
